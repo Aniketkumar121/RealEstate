@@ -130,6 +130,12 @@ npm run dev
 
 ---
 
+## Hosted on Render
+
+```
+https://realestates-kefw.onrender.com/
+```
+
 ## 📌 Future Improvements
 
 - Notifications (Email + In-app)
